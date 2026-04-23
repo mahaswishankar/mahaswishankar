@@ -29,8 +29,6 @@ following global markets, or planning my next trip. 🌍
 | 🔍 [Transaction Fraud Detection](https://github.com/mahaswishankar/transaction-fraud-system) | XGBoost model on 284k transactions, 0.98 AUC-ROC + SHAP explainability | Python, XGBoost, SHAP | ✅ Done |
 | 📈 [Financial Market Analytics](https://github.com/mahaswishankar/Financial-market-analysis) | Power BI dashboard analyzing 10 stocks (2020–2026), Google 339% return | Python, Power BI, yfinance | ✅ Done |
 | 🏦 [Credit Risk Analytics Engine](https://github.com/mahaswishankar/credit-risk-analytics) | XGBoost 0.93 AUC-ROC, SHAP explainability, FICO scoring + Live Web App | Python, XGBoost, React, Flask | ✅ Live |
-| 📰 Financial News Sentiment | NLP model to analyze market-moving news | Python, NLP | 🔜 Soon |
-| 📉 Stock Price Prediction | ML-powered stock forecasting with trading signals | Python, LSTM | 🔜 Soon |
 
 ---
 
