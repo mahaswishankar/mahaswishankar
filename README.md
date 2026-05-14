@@ -22,9 +22,9 @@ following global markets, or planning my next trip. 🌍
 📍 Delhi, India
 🎓 B.Tech CSE '27
 
-
 | Project | Description | Tech | Status |
 |---------|-------------|------|--------|
+| 🌍 [GeoFinance Intelligence Platform](https://github.com/mahaswishankar/geofinance-intelligence) | Real-time geopolitical risk + financial analytics platform — FinBERT sentiment, GeoPandas spatial contagion modelling, 3D globe, live trading signals | Python, FinBERT, GeoPandas, Shapely, Flask, React | ✅ Live |
 | 🚨 [FRAUDSENSE](https://github.com/mahaswishankar/fraudsense) | Real-time fraud intelligence platform — 7.3M records, 29 notebooks, custom 4-model ensemble | Python, Spark, XGBoost, TensorFlow, Databricks | ✅ Done |
 | 🔍 [Transaction Fraud Detection](https://github.com/mahaswishankar/transaction-fraud-system) | XGBoost model on 284k transactions, 0.98 AUC-ROC + SHAP explainability | Python, XGBoost, SHAP | ✅ Done |
 | 📈 [Financial Market Analytics](https://github.com/mahaswishankar/Financial-market-analysis) | Power BI dashboard analyzing 10 stocks (2020–2026), Google 339% return | Python, Power BI, yfinance | ✅ Done |
@@ -45,6 +45,11 @@ following global markets, or planning my next trip. 🌍
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
+**NLP & Geospatial**
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![GeoPandas](https://img.shields.io/badge/GeoPandas-139C5A?style=for-the-badge&logo=python&logoColor=white)
+![Shapely](https://img.shields.io/badge/Shapely-2.1-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 **BI & Visualization**
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
@@ -56,16 +61,14 @@ following global markets, or planning my next trip. 🌍
 
 **Web Development**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 
 **Testing & Tools**
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-
 
 ---
 
@@ -76,4 +79,4 @@ following global markets, or planning my next trip. 🌍
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mahaswiwork1@gmail.com)
 
 ---
-*🏦 Open to Data Science internships in Finance & Banking*
+*🌍 Open to Data Science internships in Geospatial Intelligence, Finance & Banking*
