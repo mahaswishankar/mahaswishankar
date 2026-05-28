@@ -1,6 +1,6 @@
 # Hey, I'm Mahaswi 👋
 
-I'm a 3rd year CS student who genuinely loves data —
+I'm a 3rd year CS student who genuinely loves data 
 not just as a career path, but as a way to understand
 the world. Whether it's tracking geopolitical shifts,
 analyzing financial markets, or finding patterns in
@@ -9,7 +9,7 @@ sense of things.
 
 That curiosity is what pulled me toward Data Science.
 I'm currently building finance-focused ML projects
-targeting the banking and fintech industry — because
+targeting the banking and fintech industry because
 I think the intersection of data + finance is where
 the most interesting problems live.
 
