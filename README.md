@@ -2,15 +2,15 @@
 
 I'm a 3rd year CS student who genuinely loves data 
 not just as a career path, but as a way to understand
-the world. Whether it's tracking geopolitical shifts,
+the world. Whether it's tracking geospatial shifts,
 analyzing financial markets, or finding patterns in
 places most people overlook data is how I make
 sense of things.
 
 That curiosity is what pulled me toward Data Science.
-I'm currently building finance-focused ML projects
-targeting the banking and fintech industry because
-I think the intersection of data + finance is where
+I'm currently building finance and geospatial focused ML projects
+targeting the fintech and GIS industry because
+I think the intersection of data + finance/geography is where
 the most interesting problems live.
 
 When I'm not coding, I'm reading about geopolitics,
