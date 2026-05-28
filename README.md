@@ -18,7 +18,7 @@ following global markets, or planning my next trip. 🌍
 
 ---
 
-🏦 Building towards a Data Science career in Finance and Geospatial
+🏦 Building towards a Data Science career in Finance and Geospatial ML
 📍 Delhi, India
 🎓 B.Tech CSE '27
 
