@@ -4,7 +4,7 @@ I'm a 3rd year CS student who genuinely loves data —
 not just as a career path, but as a way to understand
 the world. Whether it's tracking geopolitical shifts,
 analyzing financial markets, or finding patterns in
-places most people overlook — data is how I make
+places most people overlook data is how I make
 sense of things.
 
 That curiosity is what pulled me toward Data Science.
@@ -18,7 +18,7 @@ following global markets, or planning my next trip. 🌍
 
 ---
 
-🏦 Building towards a Data Science career in Finance
+🏦 Building towards a Data Science career in Finance and Geospatial
 📍 Delhi, India
 🎓 B.Tech CSE '27
 
